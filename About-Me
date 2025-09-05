@@ -1,0 +1,19 @@
+# Daniel J.
+**Independent Researcher, Generative AI & 3D Synthesis**
+---
+
+### **Research Focus**
+
+My work is centered at the intersection of generative artificial intelligence and computational geometry. I am currently developing novel architectures for **Stochastic Latent Diffusion Models** with the goal of synthesizing high-fidelity, complex 3D meshes and environments directly from semantic and textual inputs.
+
+My primary research, **"Project Natch,"** aims to create a foundational model for procedural 3D asset generation, which requires a significant multi-GPU compute environment for training and inference.
+
+*   **Contact:** `190706819@st.maltepe.edu.tr`
+
+### **Working Papers & Publications**
+
+*   **J., Daniel.** (2025). "Generative Manifolds: A Novel Approach to High-Resolution 3D Asset Generation." *In Submission to Conference on Computer Vision and Pattern Recognition (CVPR).*
+*   **J., Daniel.** (2024). "Rethinking Attention Mechanisms in Cross-Modal 3D Synthesis." *Advances in Neural Information Processing Systems (NeurIPS).*
+*   **J., Daniel.**, & Schmidt, E. (2023). "Semantic Voxel-Clustering for Efficient Text-to-Mesh Inference." *International Conference on Learning Representations (ICLR).*
+
+---
